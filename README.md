@@ -22,11 +22,12 @@
 
 ---
 
-## 🏆 Secured & Recognized By
+## 🏆Vulnerabilities Identified & Reported by Hlaing Bwar
 
 - 🏢 Cisco  
 - 📡 Bharti Airtel  
-- ⚡️ Faclon Labs  
+- ⚡️ Faclon Labs
+- 🏦 AYA BANk
 - 🏦 Affin Bank  
 - 🏛️ Otbasy Bank  
 
