@@ -61,7 +61,7 @@
 ## 📬 Contact
 
 - Telegram: [@infohlaingbwar](https://t.me/infohlaingbwar)
-- Email: hlainggyi.offical@gmail.com
+- Email: info@hlaingbwar.com
 
 *Accepting freelance/consulting projects — Let’s build or secure something together!*
 
